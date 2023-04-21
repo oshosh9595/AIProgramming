@@ -1,0 +1,4 @@
+-for / while => 일반 반복문
+-foreach ... => 반복자
+	- generator
+- async / await
